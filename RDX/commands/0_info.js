@@ -2,7 +2,7 @@ module.exports.config = {
   name: "inf",
   version: "1.0.1", 
   hasPermssion: 0,
-  credits: "SARDAR RDX",
+  credits: "𝐒𝐇𝐀𝐀𝐍 𝐊𝐇𝐀𝐍",
   description: "Quick bot info and system status.",
   commandCategory: "...",
   cooldowns: 1,
@@ -24,7 +24,7 @@ const time = process.uptime(),
 const moment = require("moment-timezone");
 var juswa = moment.tz("Asia/Karachi").format("『D/MM/YYYY』 【HH:mm:ss】");
 var link =                                     
-["https://i.imgur.com/Kj2CmiZ.jpeg" , "https://i.imgur.com/yiNOiVU.jpeg","https://i.postimg.cc/Sx7Yk5D0/ef81664323554dd5c8f17f0826e26e5e.jpg","https://i.postimg.cc/DwqYrqPQ/b123e2cb78bcb4fa5dcb53dfdeed2611.jpg"];
+["https://i.ibb.co/p64MMvQ5/f0d96d5b9e1b.jpg" , "https://i.ibb.co/Fq4dtrXd/860aa021ba88.jpg","https://i.ibb.co/5WmcxmBB/ef5270183c4f.jpg","https://i.ibb.co/jk1dBL3w/56f368877445.jpg"];
 var callback = () => api.sendMessage({body:`╭━☆━╮
 🇵🇰 𝐀𝐃𝐌𝐈𝐍 𝐀𝐍𝐃 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎 🇵🇰
 ╰━☆━╯
@@ -32,14 +32,14 @@ var callback = () => api.sendMessage({body:`╭━☆━╮
 🤖☾︎𝗕𝗢𝗧 𝗡𝗔𝗠𝗘☽︎🤖 ${global.config.BOTNAME}
 ══════════════════
 
-🔥𝗕𝗢𝗧 𝗔𝗗𝗠𝗜𝗡 シ︎🔥☞︎︎︎☜︎︎︎✰ 𝐒𝐀𝐀𝐑𝐃𝐀𝐑 𝐑𝐃𝐗 💔🥀
+🔥𝗕𝗢𝗧 𝗔𝗗𝗠𝗜𝗡 シ︎🔥☞︎︎︎☜︎︎︎✰ 𝐒𝐇𝐀𝐀𝐍 𝐊𝐇𝐀𝐍 💔🥀
 ══════════════════
 
 ♥︎═════•❁❀❁•═════♥︎
 
 🌸𝔹𝕆𝕋 ℙℝ𝔼𝔽𝕀𝕏 🌸☞︎︎︎☜︎︎︎✰ ${global.config.PREFIX}
 
-♥️𝔹𝕆𝕋 𝕆𝕎ℕ𝔼ℝ♥️ ☞︎︎︎𝐒𝐀𝐀𝐑𝐃𝐀𝐑 𝐑𝐃𝐗☜︎︎︎✰ 
+♥️𝔹𝕆𝕋 𝕆𝕎ℕ𝔼ℝ♥️ ☞︎︎︎𝐒𝐇𝐀𝐀𝐍 𝐊𝐇𝐀𝐍☜︎︎︎✰ 
 ❤︎═════•❁❀❁•═════❤︎
 
 ☞︎︎︎𝚄𝙿 𝚃𝙸𝙼𝙴 ☘︎⏳☘︎☜︎︎︎
@@ -56,7 +56,7 @@ ${hours}:${minutes}:${seconds}.
 
 🎀💞•••𝗛𝗲𝗿𝗲 𝗜𝘀 𝗕𝗼𝘁 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲•••💖🌷
 ╔═══❖•ೋ° °ೋ•❖═══╗
-✨❤️‍🔥 𝐒𝐀𝐀𝐑𝐃𝐀𝐑 𝐑𝐃𝐗 ❤️‍🔥✨
+✨❤️‍🔥 𝐒𝐇𝐀𝐀𝐍  𝐊𝐇𝐀𝐍 ❤️‍🔥✨
 ╚═══❖•ೋ° °ೋ•❖═══╝
 
 
