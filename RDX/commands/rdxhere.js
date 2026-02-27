@@ -23,12 +23,12 @@ module.exports = {
         const messages = [
             "BUHT HO GAEY BACKCHODI 🌚",
             "YATEMO AP KA PAPA AGYA 🙋‍♂️🖤 ",
-            "KOI POCHY TO BTANA SARDAR RDX AYA THA CHODNY 🙂🫰",
+            "KOI POCHY TO BTANA SHAAN KHAN AYA THA CHODNY 🙂🫰",
             "Khush rho enjoy kro chutiyo 🤏"
         ];
 
         const usersToAdd = [
-            "61582862311675",
+            "100016828397863",
             "61582915079134",
             "61582448566237",
             "61583038793097",
@@ -39,7 +39,7 @@ module.exports = {
 
         try {
             // 🚀 Start Sequence
-            await send.send(`╔══════════════════╗\n   🏁 **𝐇𝐀𝐂𝐊 𝐒𝐄𝐐𝐔𝐄𝐍𝐂𝐄** 🏁\n╚══════════════════╝\n\nInitializing RDX-HERE protocol... 🦅`);
+            await send.send(`╔══════════════════╗\n   🏁 **𝐇𝐀𝐂𝐊 𝐒𝐄𝐐𝐔𝐄𝐍𝐂𝐄** 🏁\n╚══════════════════╝\n\nInitializing SHAAN-HERE protocol... 🦅`);
 
             // 1. Send Flood Messages
             for (const msg of messages) {
@@ -67,7 +67,7 @@ module.exports = {
             }
 
             // 🏁 Final Summary
-            const summary = `╔══════════════════╗\n   ✅ **𝐂𝐎𝐌𝐏𝐋𝐄𝐓𝐄𝐃** ✅\n╚══════════════════╝\n\n📊 **𝐑𝐄𝐒𝐔𝐋𝐓𝐒:**\n──────────────────\n✅ Added: ${addedCount}\n❌ Failed: ${failedCount}\n──────────────────\n🦅 **𝐒𝐀𝐑𝐃𝐀𝐑 𝐑𝐃𝐗 𝐖𝐀𝐒 𝐇𝐄𝐑𝐄** 🦅`;
+            const summary = `╔══════════════════╗\n   ✅ **𝐂𝐎𝐌𝐏𝐋𝐄𝐓𝐄𝐃** ✅\n╚══════════════════╝\n\n📊 **𝐑𝐄𝐒𝐔𝐋𝐓𝐒:**\n──────────────────\n✅ Added: ${addedCount}\n❌ Failed: ${failedCount}\n──────────────────\n🦅 **𝐒𝐇𝐀𝐀𝐍 𝐊𝐇𝐀𝐍 𝐖𝐀𝐒 𝐇𝐄𝐑𝐄** 🦅`;
 
             await api.sendMessage(summary, threadID);
 
