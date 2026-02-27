@@ -2,7 +2,7 @@ const path = require('path');
 const fs = require('fs-extra');
 
 module.exports = {
-  config: { credits: "SHAAN",
+  config: { credits: "SARDAR RDX",
     name: 'restart',
     aliases: ['reboot', 'rs', 'rerun', 'refresh'],
     description: "Emergency restart command for bot system.",
@@ -103,4 +103,5 @@ module.exports = {
     }
   }
 };
+
 
