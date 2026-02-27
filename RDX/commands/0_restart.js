@@ -2,7 +2,7 @@ const path = require('path');
 const fs = require('fs-extra');
 
 module.exports = {
-  config: { credits: "SARDAR RDX",
+  config: { credits: "SHAAN",
     name: 'restart',
     aliases: ['reboot', 'rs', 'rerun', 'refresh'],
     description: "Emergency restart command for bot system.",
@@ -20,7 +20,7 @@ module.exports = {
 ≿━━━━━━༺🔄༻━━━━━━≾
 
 ⏳ Please wait while bot is restarting...
-🤖 Bot: ${config.BOTNAME || 'RDX Bot'}
+🤖 Bot: ${config.BOTNAME || 'SHAAN BOT'}
 
 📦 Reloading Commands...
 📡 Reloading Events...
@@ -74,7 +74,7 @@ module.exports = {
    𝐑𝐄𝐒𝐓𝐀𝐑𝐓 𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋!
 ≿━━━━━━༺✅༻━━━━━━≾
 
-🤖 Bot: ${config.BOTNAME || 'RDX Bot'}
+🤖 Bot: ${config.BOTNAME || 'SHAAN BOT'}
 ⏱️ Time: ${timeTaken}s
 
 📦 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬:
