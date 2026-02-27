@@ -2,7 +2,7 @@ module.exports.config = {
   name: "inf",
   version: "1.0.1", 
   hasPermssion: 0,
-  credits: "𝐒𝐇𝐀𝐀𝐍 𝐊𝐇𝐀𝐍",
+  credits: "SARDAR RDX",
   description: "Quick bot info and system status.",
   commandCategory: "...",
   cooldowns: 1,
