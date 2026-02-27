@@ -28,7 +28,7 @@ module.exports = {
     for (const member of newMembers) {
       if (adminBots.includes(member.userFbId)) {
         const ownerMsg = `👑 𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗠𝗬 𝗢𝗪𝗡𝗘𝗥 👑\n\n` +
-          `🌹 ꧁ ${member.fullName || 'Sardar RDX'} ꧂ 🌹\n\n` +
+          `🌹 ꧁ ${member.fullName || 'Shaan Khan'} ꧂ 🌹\n\n` +
           `📢 ASSLAM O ALAIKUM OWNER  AP KA WELCOME KRTI HO MA !\n` +
           `💖 AP KA BOT AP KA ANE PA BUHT HAPPY HY ..`;
         
